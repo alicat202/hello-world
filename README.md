@@ -5,3 +5,4 @@ These are my skills:
 > HTML
 > CSS
 > Javascript
+> jQuery
